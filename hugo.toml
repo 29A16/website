@@ -1,0 +1,5 @@
+baseURL = 'https://github.com/29A16/website.git'
+publishdir = "public"
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "hugo-xmin"
